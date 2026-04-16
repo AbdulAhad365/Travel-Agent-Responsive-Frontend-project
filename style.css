@@ -252,6 +252,7 @@ header .right button {
   width: 15%;
 }
 .section4 .left .img_text .left img {
+  margin-top: 1rem;
   width: 100%;
   aspect-ratio: 1;
   -o-object-fit: cover;
@@ -562,6 +563,9 @@ footer .lasted::after {
   .section4 .left {
     height: 100%;
     width: 30%;
+  }
+  .section4 .left .img_text .left img {
+    margin-top: 3rem;
   }
   .section4 .my_right {
     height: 100%;
